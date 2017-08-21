@@ -108,6 +108,190 @@ NavMeshSettings:
     tileSize: 256
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &79822060
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &115740132
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.4528039
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.208295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &194936066
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.2496314
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.143148
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &231454253
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.924438
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.295696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &237889951
 GameObject:
   m_ObjectHideFlags: 0
@@ -185,8 +369,275 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &494812663
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.24346614
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 6.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.084925
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &522351467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 522351468}
+  - component: {fileID: 522351471}
+  - component: {fileID: 522351470}
+  - component: {fileID: 522351469}
+  m_Layer: 8
+  m_Name: CannonTube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &522351468
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 522351467}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.9666666, z: 0}
+  m_LocalScale: {x: 0.53333336, y: 0.6666667, z: 0.53333336}
+  m_Children: []
+  m_Father: {fileID: 1752921655}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &522351469
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 522351467}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: cd755c7097183414396552eddc713233, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!136 &522351470
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 522351467}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &522351471
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 522351467}
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &657486508
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.428699
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 5.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.084777
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &673223745
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.6771138
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.203759
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &865732676
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.137585
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &902657307
 GameObject:
   m_ObjectHideFlags: 0
@@ -270,12 +721,58 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 902657307}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: -0.03, y: 4.05, z: -13.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &926318616
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.241202
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.148576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &963621955
 GameObject:
   m_ObjectHideFlags: 0
@@ -288,7 +785,7 @@ GameObject:
   - component: {fileID: 963621957}
   - component: {fileID: 963621956}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Placa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -352,9 +849,521 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 963621955}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6785622, y: 8.025599, z: 0.6687317}
-  m_LocalScale: {x: 12.896349, y: 0.33320376, z: -70.47231}
+  m_LocalPosition: {x: 0, y: 0, z: 0.07}
+  m_LocalScale: {x: 49.00612, y: 0.00068139884, z: -70.47231}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1132087761
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.029482365
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.169297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1150904615
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.122605
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1161721495
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.213705
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.156767
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1430769264
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.2444903
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.149891
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1480943986
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.9869695
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 2.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.154261
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1608430054
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -5.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.200052
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1722775843
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.4372005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.144934
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 65781152345057942, guid: b04897b0ba83c0748a20268722f1ee39,
+        type: 2}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &1752921651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1752921655}
+  - component: {fileID: 1752921654}
+  - component: {fileID: 1752921653}
+  - component: {fileID: 1752921652}
+  - component: {fileID: 1752921656}
+  m_Layer: 8
+  m_Name: CannonAxis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &1752921652
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1752921651}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: cd755c7097183414396552eddc713233, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!135 &1752921653
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1752921651}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!33 &1752921654
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1752921651}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1752921655
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1752921651}
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
+  m_LocalPosition: {x: 0.04, y: 0.73, z: -5.5}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_Children:
+  - {fileID: 522351468}
+  m_Father: {fileID: 0}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
+--- !u!114 &1752921656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1752921651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94a2010c3dd06344a4085a704b345d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  original: {fileID: 1552268127839760, guid: af6ae743d4c34e244887fdb9e7c9074a, type: 2}
+--- !u!1001 &1809290494
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -1.0471475
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 7.5003405
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.311603
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2108667117
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.2224262
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.5003407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.118216
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064397280717982, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639226531685060, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+      propertyPath: m_Name
+      value: PickleBrick (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: b04897b0ba83c0748a20268722f1ee39, type: 2}
+  m_IsPrefabParent: 0
