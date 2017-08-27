@@ -7,6 +7,7 @@ TagManager:
   - Brick
   - Player1
   - Player2
+  - Missile
   layers:
   - Default
   - TransparentFX

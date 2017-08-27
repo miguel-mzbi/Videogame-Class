@@ -20,9 +20,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4140007031500816}
   - component: {fileID: 114214817620839684}
+  - component: {fileID: 54840052929086444}
   m_Layer: 0
   m_Name: MissileContainer
-  m_TagString: Untagged
+  m_TagString: Missile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38,11 +39,11 @@ GameObject:
   - component: {fileID: 33310953996787660}
   - component: {fileID: 136794746001989410}
   - component: {fileID: 23463636928867662}
-  - component: {fileID: 54825543304445836}
-  - component: {fileID: 114787559808743738}
+  - component: {fileID: 54491693867780366}
+  - component: {fileID: 114473379724931392}
   m_Layer: 10
   m_Name: Missile
-  m_TagString: Untagged
+  m_TagString: Missile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -184,12 +185,27 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1964041331968336}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
---- !u!54 &54825543304445836
+--- !u!54 &54491693867780366
 Rigidbody:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1464241004383448}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!54 &54840052929086444
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1332264895458518}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -212,7 +228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gizmoSize: 0.75
   gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
---- !u!114 &114787559808743738
+--- !u!114 &114473379724931392
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}

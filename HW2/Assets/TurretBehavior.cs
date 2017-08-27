@@ -19,19 +19,20 @@ public class TurretBehavior : MonoBehaviour {
 
         if(Input.GetAxis("VerticalP1") != 0 && this.transform.name == "CannonPivotBlue") {
             this.transform.Rotate(0, 0, rotationSpeed * v1 * Time.deltaTime);
-            print("Cañon1");
         }
         if(Input.GetAxis("VerticalP2") != 0 && this.transform.name == "CannonPivotRed") {
             this.transform.Rotate(0, 0, rotationSpeed * v2 * Time.deltaTime);
-            print("Cañon2");
         }
 
         if(Input.GetKeyDown(KeyCode.Space) && this.transform.name == "CannonPivotBlue") {
             GameObject bulletB = Instantiate(bullet, transform.GetChild(0).position, transform.rotation) as GameObject;
+            bulletB.GetComponentInChildren<BulletBehavior>().SetParentTank(this.transform.parent.name);
             Rigidbody RigidbodyBulletB = bulletB.GetComponent<Rigidbody>();
+
         }
-        if(Input.GetKeyDown(KeyCode.RightControl) && this.transform.name == "CannonPivotRed") {
+        if (Input.GetKeyDown(KeyCode.RightControl) && this.transform.name == "CannonPivotRed") {
             GameObject bulletA = Instantiate(bullet, transform.GetChild(0).position, transform.rotation) as GameObject;
+            bulletA.GetComponentInChildren<BulletBehavior>().SetParentTank(this.transform.parent.name);
             Rigidbody RigidbodyBulletA = bulletA.GetComponent<Rigidbody>();
         }
     }
